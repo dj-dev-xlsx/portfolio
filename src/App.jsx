@@ -10,7 +10,7 @@ function App() {
     <>
     <div className="bg-gray-800 text-white">
       <nav className="max-w-7xl mx-auto px-4 py-3">
-        <div className="flex items-center justgify-between">
+        <div className="flex items-center justify-between">
           <div className="text-2xl font-bold">My Website</div>
           <div className="hidden md:flex space-x-6">
             <a href="#" className="hover:text-gray-300">Home</a>
